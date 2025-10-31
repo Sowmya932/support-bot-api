@@ -16,21 +16,6 @@ The project is fully containerized with Docker, making it easy to deploy anywher
 
 📁 Custom Training — train.py can retrain embeddings with new data
 
-🏗️ Project Structure
-support-bot/
-├── services/
-│   └── api/
-│       └── app/
-│           ├── main.py              # FastAPI entry point
-│           ├── train.py             # Training script to create embeddings
-│           ├── model_store.py       # Model loading and similarity logic
-│           ├── intents.csv          # Sample dataset of user intents
-│           ├── requirements.txt     # Python dependencies
-│           ├── Dockerfile           # Docker image build instructions
-│           ├── .dockerignore        # Files to exclude from Docker build
-│           └── ...
-└── README.md
-
 ⚙️ Tech Stack
 Component	Description
 Language	Python 3.10
@@ -39,6 +24,7 @@ Model	Sentence Transformers (all-MiniLM-L6-v2)
 Vector Similarity	Cosine similarity on embeddings
 Containerization	Docker
 Data	CSV file with intents and sample responses
+
 🧠 How It Works
 
 Training (train.py)
