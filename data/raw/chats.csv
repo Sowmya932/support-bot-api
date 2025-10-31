@@ -1,0 +1,9 @@
+message,intent,response
+"Where is my order?","order_status","Your order is being processed and will ship soon. Please provide order id if you need tracking."
+"I want a refund","refund","I'm sorry — please provide your order id and reason and we'll process your refund promptly."
+"My package is delayed","shipping_delay","Apologies for delay. Can you share the order id so we can investigate?"
+"How do I change my address?","change_address","You can update your shipping address in the Orders section of your account."
+"I want to cancel my order","cancel_order","Please share your order id and we'll attempt cancellation if it hasn't shipped."
+"How to return an item?","returns","You can start a return via the Orders page. Once received, refunds are processed within 5 business days."
+"Do you provide international shipping?","shipping_query","Yes — we ship internationally. Enter your address at checkout to see availability and costs."
+"What's your warranty?","warranty","All products have a 1-year limited warranty. Contact support with your order id for details."

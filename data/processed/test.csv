@@ -1,0 +1,3 @@
+message,intent,response,text
+I want a refund,refund,I'm sorry — please provide your order id and reason and we'll process your refund promptly.,want refund
+How to return an item?,returns,"You can start a return via the Orders page. Once received, refunds are processed within 5 business days.",return item

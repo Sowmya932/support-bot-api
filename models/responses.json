@@ -1,0 +1,18 @@
+{
+  "texts": [
+    "order",
+    "warranty",
+    "package delayed",
+    "want cancel order",
+    "change address",
+    "provide international shipping"
+  ],
+  "responses": [
+    "Your order is being processed and will ship soon. Please provide order id if you need tracking.",
+    "All products have a 1-year limited warranty. Contact support with your order id for details.",
+    "Apologies for delay. Can you share the order id so we can investigate?",
+    "Please share your order id and we'll attempt cancellation if it hasn't shipped.",
+    "You can update your shipping address in the Orders section of your account.",
+    "Yes — we ship internationally. Enter your address at checkout to see availability and costs."
+  ]
+}

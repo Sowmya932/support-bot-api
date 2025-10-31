@@ -1,0 +1,7 @@
+message,intent,response,text
+Where is my order?,order_status,Your order is being processed and will ship soon. Please provide order id if you need tracking.,order
+What's your warranty?,warranty,All products have a 1-year limited warranty. Contact support with your order id for details.,warranty
+My package is delayed,shipping_delay,Apologies for delay. Can you share the order id so we can investigate?,package delayed
+I want to cancel my order,cancel_order,Please share your order id and we'll attempt cancellation if it hasn't shipped.,want cancel order
+How do I change my address?,change_address,You can update your shipping address in the Orders section of your account.,change address
+Do you provide international shipping?,shipping_query,Yes — we ship internationally. Enter your address at checkout to see availability and costs.,provide international shipping
