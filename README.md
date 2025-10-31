@@ -95,27 +95,7 @@ uvicorn main:app --reload
 
 
 Access it at http://localhost:8000
-.
 
-📦 API Endpoints
-Method	Endpoint	Description
-POST	/predict	Predicts intent and returns a support response
-GET	/	Root health check route
-GET	/docs	Interactive Swagger documentation
-🧰 Future Improvements
 
-Integrate a real support database or CRM
-
-Add user context tracking
-
-Connect with a frontend chatbot UI
-
-Implement multilingual intent recognition
-
-Add authentication for production deployment
-
-🧑‍💻 Author
-
-Support Bot by [Your Name]
-Built with ❤️ using FastAPI and Sentence Transformers.
+Support Bot by Sowmya
 
